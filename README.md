@@ -6,7 +6,6 @@ Some dependencies which is needed more often than i thought, keeping all those i
 //dagger-hilt
 implementation("com.google.dagger:hilt-android:2.51")
 kapt("com.google.dagger:hilt-android-compiler:2.51")
-implementation("androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03")
 
 plugins {
     kotlin("kapt")
