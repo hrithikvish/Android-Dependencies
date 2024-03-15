@@ -2,7 +2,7 @@
 Some dependencies which is needed more often than i thought, keeping all those in a single place
 
 # Here
-```
+```kotlin
 //dagger-hilt
 implementation("com.google.dagger:hilt-android:2.51")
 kapt("com.google.dagger:hilt-android-compiler:2.51")
