@@ -17,6 +17,9 @@ kapt {
     correctErrorTypes = true
 }
 
+//in project level gradle
+id("com.google.dagger.hilt.android") version "2.51" apply false
+
 
 //retrofit
 implementation("com.squareup.retrofit2:retrofit:2.9.0")
