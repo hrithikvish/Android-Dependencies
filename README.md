@@ -5,7 +5,7 @@ Some dependencies which is needed more often than i thought, keeping all those i
 ```gradle
 
 //glide
-implementation 'com.github.bumptech.glide:glide:4.16.0'
+implementation("com.github.bumptech.glide:glide:4.16.0")
 
 //dagger-hilt
 implementation("com.google.dagger:hilt-android:2.51")
