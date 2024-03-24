@@ -3,6 +3,10 @@ Some dependencies which is needed more often than i thought, keeping all those i
 
 # Here
 ```gradle
+
+//glide
+implementation 'com.github.bumptech.glide:glide:4.16.0'
+
 //dagger-hilt
 implementation("com.google.dagger:hilt-android:2.51")
 kapt("com.google.dagger:hilt-compiler:2.44")
