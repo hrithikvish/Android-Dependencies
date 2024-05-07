@@ -33,6 +33,11 @@ implementation("com.google.code.gson:gson:2.10.1")
 implementation("com.squareup.okhttp3:okhttp:4.11.0")
 implementation("com.squareup.okhttp3:logging-interceptor:4.10.0")
 
+//room
+implementation("androidx.room:room-runtime:2.6.1")
+kapt("androidx.room:room-compiler:2.6.1")
+implementation("androidx.room:room-ktx:2.6.1")
+
 //viewmodel
 implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
 implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
