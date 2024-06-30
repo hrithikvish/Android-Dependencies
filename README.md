@@ -55,4 +55,8 @@ implementation ("com.google.accompanist:accompanist-systemuicontroller:0.27.0")
 // Fragment Navigation
 implementation("androidx.navigation:navigation-fragment-ktx:2.7.7")
 implementation("androidx.navigation:navigation-ui-ktx:2.7.7")
+
+implementation("com.facebook.shimmer:shimmer:0.5.0")
+
+implementation("androidx.core:core-splashscreen:1.0.1")
 ```
