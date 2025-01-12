@@ -56,7 +56,13 @@ implementation ("com.google.accompanist:accompanist-systemuicontroller:0.27.0")
 implementation("androidx.navigation:navigation-fragment-ktx:2.7.7")
 implementation("androidx.navigation:navigation-ui-ktx:2.7.7")
 
+// navigation safe args
+id("androidx.navigation.safeargs.kotlin") version "2.8.5" apply false
+id("androidx.navigation.safeargs.kotlin")
+
 implementation("com.facebook.shimmer:shimmer:0.5.0")
 
 implementation("androidx.core:core-splashscreen:1.0.1")
+
+
 ```
